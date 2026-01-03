@@ -1,4 +1,4 @@
-# Modeling Music Media Patterns with Audio Feature Analysis
+# Analyzing Audio Patterns in Tunefind’s Top 100
 # Carlie de Boer
 # Q4 2020
 
