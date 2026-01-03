@@ -1,4 +1,4 @@
-Modeling Music Media Patterns with Audio Feature Analysis
+Analyzing Audio Patterns in Tunefind’s Top 100
 
 "code.R" is a single R script.
 "tunefind_top_100.csv" is a dataset of Tunefind's top 100 songs in 2019. 
