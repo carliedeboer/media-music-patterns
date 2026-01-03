@@ -1,4 +1,4 @@
-# Harnessing the Power of Music to Boost Engagement Beyond the Screen
+# Modeling Music Media Patterns with Audio Feature Analysis
 # Carlie de Boer
 # Q4 2020
 
